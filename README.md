@@ -1,4 +1,4 @@
-# Day 06 – Piscine .NET
+# Day 06 – Bootcamp .NET
 ### Multithreading
 
 # Contents
